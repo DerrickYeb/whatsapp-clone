@@ -1,0 +1,6 @@
+.chat-border::before{
+    border-top: 2px solid #0004ff;
+    position: absolute;
+    top: 50%;
+    bottom: 0;
+}
